@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great &amp; dreadful day of the Lord God almighty (which is hastening as a flood upon the whole world of the ungodly once more proclaimed that all people may again be warned to repent with speed and to be left without excuse.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27128</idno>
+            <idno type="STC">Wing B1528</idno>
+            <idno type="STC">ESTC R23674</idno>
+            <idno type="EEBO-CITATION">07869810</idno>
+            <idno type="OCLC">ocm 07869810</idno>
+            <idno type="VID">40221</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40221)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1195:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great &amp; dreadful day of the Lord God almighty (which is hastening as a flood upon the whole world of the ungodly once more proclaimed that all people may again be warned to repent with speed and to be left without excuse.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1664?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: William Bayly.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment Day.</term>
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40221:1" rendition="simple:additions"/>
+            <head>THE Great &amp; Dreadful DAY OF THE Lord God Almighty (Which is haſtening as a Flood up<g ref="char:EOLhyphen"/>on the whole World of the Ungodly) Once more Proclaimed: That All People may again be <hi>Warned</hi> to REPENT with ſpeed, and ſo be left without EXCUSE.</head>
+            <p>O The <hi>Great, Terrible</hi> and <hi>Dreadful Day</hi> of the <hi>Lord God Almighty,</hi> that is at hand, a <hi>Day</hi> of <hi>Anguiſh, Diſtreſs</hi> and <hi>Great Per<g ref="char:EOLhyphen"/>plexity,</hi> a <hi>Day</hi> of <hi>ſore Trouble</hi> and <hi>Vexation</hi> unto
+<pb facs="tcp:40221:2"/>the <hi>Wicked,</hi> a <hi>Day</hi> of <hi>Darkneſs</hi> and <hi>Gloomineſs,</hi> a <hi>Day</hi> of <hi>Terrors</hi> and <hi>Alarm of War,</hi> Deſtruction upon Deſtruction, even ſuch a <hi>Day</hi> as was never before it, nor ſhall ever be like it for evermore; a <hi>Day</hi> of Fears and Amazements, Howlings and Dreadful Aſtoniſhments: Wo is me, Wo is me for you the Inhabitants of the Earth; Alas, alas! the <hi>Day</hi> is Great, and very Terrible, which is ap<g ref="char:EOLhyphen"/>proaching; Who ſhall be able to abide it? O my Soul! be thou quiet, and exceeding ſtill and low in the Dread and Power of the Almighty, and very watchful in the inward retired Place of the Moſt High forever, that thou mayſt be preſerved; for the <hi>Day</hi> is exceeding Great, and very Terrible, that haſtens as a Woman in Travail; a <hi>Day</hi> of Shaking of all things that are ſince the Foundati<g ref="char:EOLhyphen"/>on of the World, and of Quaking and Trem<g ref="char:EOLhyphen"/>bling through the whole Earth; a <hi>Day</hi> of Ven<g ref="char:EOLhyphen"/>geance and Indignation, of Fierce Wrath and Dreadful Judgments upon the Ungodly. Wo, Wo, Wo to the Inhabitants of the Earth, and of the Sea, <hi>the Devil is come down among you in great Rage and Fury, knowing he hath but a ſhort time:</hi> Repent, Repent, Repent, and fear, dread and tremble before the Lord God Almighty, and turn ye every one from his Evil Wayes; for he will daſh the Ungodly in pieces like a Porters Veſſel againſt the Rocks. Howl, Howl, Howl all you that live in Pleaſures, Vanities and Fading De<g ref="char:EOLhyphen"/>lights of this World: the <hi>Day</hi> of your Fears, Diſtreſs and Anguiſh ſhall overtake you. All
+<pb facs="tcp:40221:2"/>you prophane <hi>Eſaus,</hi> who have ſold your Birth<g ref="char:EOLhyphen"/>right for a Meſs of Pottage, your <hi>Day</hi> of Crying with Tears, to ſeek a Place to Repent with Care<g ref="char:EOLhyphen"/>fulneſs, is at hand; but you (who have loſt the Bleſſing) will be rejected. And all you wilde <hi>Iſhmaelites,</hi> Mockers and Scoffers, ye will be caſt out into utter Darkneſs, where is Wailing and Gnaſhing of Teeth for evermore. And all you Oppreſſors and Perſecutors about Religion, <hi>Cain</hi>'s generation, your Puniſhments will be greater then you can bear; ye are the Vagabonds from God, and Fugitives in the Earth. And all you <hi>Nimrods,</hi> mighty Hunters before the Lord, your Kingdom is of <hi>Babel,</hi> the Great Whore, ye muſt partake of her Plagues. Howl, Howl, and Lament bit<g ref="char:EOLhyphen"/>terly all ye Idle Shepherds, greedy devouring Wolves, and all you Dumb Dogs, who have made a Prey upon the Sheep, tearing their Fleece and Fleſh from off their Bones; your <hi>Day</hi> is at hand, of ſuch Judgments, Plagues and Ven<g ref="char:EOLhyphen"/>geance, as hath not been known in Ages: For the Terrible and Dreadful God is come to Reign in <hi>Mount Sion,</hi> and in <hi>Jeruſalem,</hi> and before his Ancients Gloriouſly; and he will tread and tram<g ref="char:EOLhyphen"/>ple you in his Fury, as one that treadeth upon Mortar; your Vine is the Vine of <hi>Sodom,</hi> your Grapes are Grapes of Abominations; you muſt be caſt into the Wine-preſs of the Wrath of the Almighty God, there to be tormented Day and Night forever and ever, except ye ſpeedily Re<g ref="char:EOLhyphen"/>pent: <hi>the Mouth of the Lord hath ſpoken it.</hi>
+            </p>
+            <pb facs="tcp:40221:3"/>
+            <p>Howl and be Aſtoniſht, and Tremble all ye Councils and Confederacies of Ungodly Men, who lie upon your Beds of Miſchief, and ſit in the Neſt of Wickedneſs; you hatch Cockatrice Eggs; and he that eateth of your Eggs, dyeth; and that which is cruſhed, breaks forth into a Viper: Wo to the Crown of Pride, and to the Drunkards of <hi>Ephraim,</hi> who feed upon the Head of the fat Val<g ref="char:EOLhyphen"/>ley: And Wo to you who decree <hi>Unrighteous Decrees, and write Grievous Things, which you have preſcribed;</hi> for you have caſt the Fear, Law and Counſel, Wiſdom, Mercy and true Judgment of the Righteous God behind your Backs. There<g ref="char:EOLhyphen"/>fore fear, bow and tremble, all ye who are as Fed Horſes and Fatted Beaſts for the Slaughter of his fierce Indignation; for his terrible Stroak will come upon you, and conſume you off the Earth, and ye ſhall not eſcape it.</p>
+            <p>And all you Proud, Scornful, Deceitful, Wan<g ref="char:EOLhyphen"/>ton Ones, and Abominable Men and Women, who are exalted above God's Witneſs in you, ma<g ref="char:EOLhyphen"/>king merry over it; weep and howl, for your Miſeries are coming upon you; your Riches ſhall not ſave you, your Deceit and Policy (with all your Out-ſide Profeſſion) ſhall not hide or cover you from the fierce Wrath of the Almighty.</p>
+            <p>A wake, awake, O all ye Hypocrites, Double-minded &amp; Time-Servers, who have the Change<g ref="char:EOLhyphen"/>able Suits of Apparel, and wear the Round Tires like the Moon, and uſe the Criſping-pins; if you have Ears, hear: you have Changeable Sutes,
+<pb facs="tcp:40221:3"/>and Round Tires like the Moon, this is your State, who know not the Woman cloathed with the Sun, with the Moon under her Feet; your Well-ſet Hair is become Baldneſs, and inſtead of a Gir<g ref="char:EOLhyphen"/>dle there is a Rent, and Burning inſtead of Beau<g ref="char:EOLhyphen"/>ty: Therefore dread and tremble before the Lord God, and Repent ſpeedily, while you have yet a Day to breathe; for ye are the unſtable People, Double minded, ye will be driven and ſhaken as with an Eaſt Wind by the Breath of the Almigh<g ref="char:EOLhyphen"/>ty; ye are the Waters on which the Whore (and Beaſt, at this day) ſits; ye bow down, ye wor<g ref="char:EOLhyphen"/>ſhip the Beaſt and his Image, ye receive his Mark in the Hand and in the Forehead; ye are of thoſe Bond-ſlaves of <hi>Babylon,</hi> the Fear of Man hath en<g ref="char:EOLhyphen"/>ſnared you; ye are the Fearful and Unbelieving, who will be ſhut out among the Dogs, Perſecutors and Whoremongers, Idolaters, Abominable and Lyars forever, except you ſpeedily Repent.</p>
+            <p>Awake, Howl, Howl and Tremble, all ye Drunkards, Sporters, Players, Fidlers, and ye that tolerate them; the Zeal of the pure Righteous God burns like Fire againſt you all, which will con<g ref="char:EOLhyphen"/>ſume you, ye Corrupters of the Earth, ye Mini<g ref="char:EOLhyphen"/>ſters of the Devil, who beget and raiſe up Light<g ref="char:EOLhyphen"/>neſs, Wantonneſs and Vanity in the Minds of Peo<g ref="char:EOLhyphen"/>ple, whereby the Lord and his Fear is forgotten, and his Holy Spirit grieved, and his Name diſho<g ref="char:EOLhyphen"/>noured, and the Righteous Souls of ſober People vexed from day to day, which cryes mightily a<g ref="char:EOLhyphen"/>gainſt you, and the Lord will hear them, and an<g ref="char:EOLhyphen"/>ſwer
+<pb facs="tcp:40221:4"/>the Cryes of his Choſen Seed for his own Name ſake.</p>
+            <p>And all you Cheaters, Whores and Whore<g ref="char:EOLhyphen"/>mongers, Idolaters, Unclean and Ungodly Ones, you ſhall be judged, condemned, plagued and tor<g ref="char:EOLhyphen"/>mented by that you daily ſtrive againſt and make merry over: Come down all ye Exalted, Stiff-necked &amp; Rebellious Ones, who are out of God's Fear; his Vengeance, as a Beeſome of Deſtructi<g ref="char:EOLhyphen"/>on, will ſweep you all down into Endleſs Miſery; your Songs ſhall be turned into Howlings, and your Vain Falſe Joy into Heavineſs, the dayes of your Pleaſures ſhall be ſhort; you who are adding Sin to Sin, and drinking down Iniquity like Wa<g ref="char:EOLhyphen"/>ter, you are drawing down Fury upon your own Heads as with a Cart-rope, you are filling up your Meaſures of Abominations, you are haſtening as a Bird to the Snare, and as an Ox to the Slaugh<g ref="char:EOLhyphen"/>ter, and a Fool to the Correction of the Stocks, and know not that it is for your Life, and that your Pathes lead to the dark Chambers of Death and Eternal Deſtruction, and your Steps take hold of Hell; behold God's Indignation is againſt you, and he will be avenged on you for his Righ<g ref="char:EOLhyphen"/>teous Seed's ſake, which (in you) is daily grie<g ref="char:EOLhyphen"/>ved and vexed, even as <hi>Lot</hi> in <hi>Sodom.</hi>
+            </p>
+            <p>Therefore awake, all ye Drunkards (of all ſorts), Rioters, Curſers, Swearers, Blaſphemers, Hypocrites, Perſecutors, Scoffers, Mockers, Ra<g ref="char:EOLhyphen"/>gers, and all ye Ungodly Ones every where, and dread the Living God; for he will fill your Bow<g ref="char:EOLhyphen"/>els
+<pb facs="tcp:40221:4"/>with perpetual Sorrow, Vexation, Wo and E<g ref="char:EOLhyphen"/>verlaſting Burnings, if ye proceed in theſe Abo<g ref="char:EOLhyphen"/>minations, which the Soul of the Righteous God abhors: Stand ſtill, ſtand ſtill, be ſtill all ye <hi>Hea<g ref="char:EOLhyphen"/>then,</hi> and mind God's Witneſs in your Conſcien<g ref="char:EOLhyphen"/>ces, which ſometimes (like a Bridle in your Jaws) checks you; ye who are like mad Horſes, raging, ruſhing, ranting and vaunting in all man<g ref="char:EOLhyphen"/>ner of Ungodlineſs, wallowing in the height and depth of Wickedneſs, as if you had not room e<g ref="char:EOLhyphen"/>nough to vent the Strength and Subſtance of the Devil's Power in you. Remember that Hell hath enlarged her Mouth, and <hi>Tophet</hi> is prepared of old, and ye will deſcend into it, with the De<g ref="char:EOLhyphen"/>vil and his Angels, except you ſpeedily Repent; <hi>the Mouth of the Lord hath ſpoken it.</hi>
+            </p>
+            <p>So conſider your Latter-end, and the Laſt Day of your Viſitation; for the Righteous God be<g ref="char:EOLhyphen"/>holds you, and ſees all your Doings, though ne<g ref="char:EOLhyphen"/>ver ſo ſecret, and hears all your Blaſphemies, Oaths and Curſed Speeches, ye wilful, head<g ref="char:EOLhyphen"/>ſtrong and ſtiff-necked Ones, who have deſpiſed Reproof, and abhorred Good Counſel: But now behold the Lord is coming a ſwift Witneſs againſt you all, and he will plead with you for all theſe things; and you ſhall know, that our God is a Conſuming Fire, when you feel the Vengeance and the Righteous Judgments come upon you for all your Wickedneſs, which will be executed ſpeedily. Therefore I ſay again, <hi>Repent,</hi> O all ye Workers of Iniquity, and Fear the Living
+<pb facs="tcp:40221:5"/>God, and with ſpeed leave off all your Evil Wayes and Doings, and learn Righteouſneſs and Truth; for the great and terrible Day of the Lord God haſtens upon you, as a Woman in Travail, and none in Tranſgreſſion ſhall eſcape it.</p>
+            <p>So this is your Warning once more to Repent with ſpeed, and ye are all left without Excuſe; ſo while you have an Inch of Time, prize it.</p>
+            <closer>
+               <dateline>
+                  <hi>Written in</hi> 
+                  <date>the Year 1664.</date>
+               </dateline>
+               <signed>
+                  <hi>By</hi> William B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yly.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <p>
+                     <hi>The Lord tryeth the Righteous; but the Wicked, and him that loveth Violence, his Soul hateth: Upon the Wicked he ſhall reign Snares, Fire and Brim<g ref="char:EOLhyphen"/>ſtone, and an horrible Tempeſt; this ſhall be the Portion of their Cup,</hi> Pſal. 11.5. <hi>For in the Hand of the Lord there is a Cup, and the Wine is Red; it is full of Mixture, and he poureth out of the ſame: but the Dregs thereof all the Wicked of the Earth ſhall wring them out, and drink them,</hi> Pſal. 75.8.</p>
+                  <p>Let this be ſpread to the Ends of the Earth.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+   </text>
+</TEI>
